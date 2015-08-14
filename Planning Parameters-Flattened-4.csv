@@ -1,0 +1,91 @@
+SNo,MSB Required?,Max Private Path Length,Min Private Path Width,CBA Required?,Min Road Width,Min Plot Extent,Min Plot Width/Frontage,Max Units,Max Units Desc,Blocks,Type,Max Height,Max Height Desc,Max FSI,Max Plot Coverage
+1,0,0,0,1,10,80,4.5,10000000,any,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+2,0,0,0,1,9,80,4.5,12,12,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+3,0,0,0,1,9,50,4.5,8,8,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+4,0,10000000,0,1,0,50,4.5,6,6,1,Ordinary,9,G+1/S+2 upto 9m,1.5,75%
+5,0,0,0,1,10,300,6,10000000,any,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+6,0,10000000,0,0,0,80,6,6,6,1,Ordinary,9,G+1/S+2 upto 9m,1.5,70%
+7,0,0,0,0,9,200,9,6,6,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+8,0,0,0,0,9,300,9,8,8,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+9,0,0,0,0,9,450,12,8,8,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+10,0,0,0,0,9,450,15,8,8,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+11,0,0,0,0,9,450,12,12,12,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+12,0,0,0,0,9,660,15,12,12,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+13,0,0,0,0,9,660,18,12,12,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+14,0,0,0,0,10,660,12,10000000,any,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+15,1,0,0,0,12,1200,25,10000000,any,no restrictions,MSB,24,G+6/S+7 upto 24m,1.5,30%
+16,1,0,0,0,15,1200,25,10000000,any,no restrictions,MSB,30,G+8/S+9 upto 30m,1.75,30%
+17,1,0,0,0,18,1500,25,10000000,any,no restrictions,MSB,60,60m,2.5,30%
+18,1,0,0,0,18,1200,25,10000000,any,no restrictions,MSB,60,60m,2.25,40%
+19,1,0,0,0,18,1200,25,10000000,any,no restrictions,MSB,60,60m,2,50%
+20,1,0,0,0,30,1500,25,10000000,any,no restrictions,MSB,120,no restrictions,2.5,30%
+21,1,0,0,0,30,1200,25,10000000,any,no restrictions,MSB,120,no restrictions,2.25,40%
+22,1,0,0,0,30,1200,25,10000000,any,no restrictions,MSB,120,no restrictions,2,50%
+23,0,80,3.6,1,10,80,4.5,6,6,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+24,0,80,3.6,1,9,80,4.5,6,6,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+25,0,80,3.6,1,9,50,4.5,6,6,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+26,0,80,3.6,0,9,200,9,6,6,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+27,0,80,3.6,0,9,300,9,6,6,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+28,0,80,3.6,0,9,450,12,6,6,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+29,0,80,3.6,0,9,450,15,6,6,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+30,0,80,3.6,0,9,450,12,6,6,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+31,0,80,3.6,0,9,660,15,6,6,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+32,0,80,3.6,0,9,660,18,6,6,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+33,0,100,4.8,1,10,80,4.5,8,8,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+34,0,100,4.8,1,9,80,4.5,8,8,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+35,0,100,4.8,1,9,50,4.5,8,8,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+36,0,100,4.8,0,9,200,9,8,8,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+37,0,100,4.8,0,9,300,9,8,8,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+38,0,100,4.8,0,9,450,12,8,8,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+39,0,100,4.8,0,9,450,15,8,8,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+40,0,100,4.8,0,9,450,12,8,8,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+41,0,100,4.8,0,9,660,15,8,8,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+42,0,100,4.8,0,9,660,18,8,8,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+43,0,120,7.2,1,10,80,4.5,10,10,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+44,0,120,7.2,1,9,80,4.5,10,10,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+45,0,120,7.2,1,9,50,4.5,10,10,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+46,0,120,7.2,0,9,200,9,10,10,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+47,0,120,7.2,0,9,300,9,10,10,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+48,0,120,7.2,0,9,450,12,10,10,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+49,0,120,7.2,0,9,450,15,10,10,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+50,0,120,7.2,0,9,450,12,10,10,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+51,0,120,7.2,0,9,660,15,10,10,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+52,0,120,7.2,0,9,660,18,10,10,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+53,0,240,9,1,10,80,4.5,20,20,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+54,0,240,9,1,9,80,4.5,20,20,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+55,0,240,9,1,9,50,4.5,20,20,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+56,0,240,9,0,9,200,9,20,20,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+57,0,240,9,0,9,300,9,20,20,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+58,0,240,9,0,9,450,12,20,20,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+59,0,240,9,0,9,450,15,20,20,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+60,0,240,9,0,9,450,12,20,20,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+61,0,240,9,0,9,660,15,20,20,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+62,0,240,9,0,9,660,18,20,20,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+63,0,10000000,10,1,10,80,4.5,10000000,any,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+64,0,10000000,10,1,9,80,4.5,10000000,any,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+65,0,10000000,10,1,9,50,4.5,10000000,any,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+66,0,10000000,10,0,9,200,9,10000000,any,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+67,0,10000000,10,0,9,300,9,10000000,any,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+68,0,10000000,10,0,9,450,12,10000000,any,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+69,0,10000000,10,0,9,450,15,10000000,any,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+70,0,10000000,10,0,9,450,12,10000000,any,1,Special,9,G+1/S+2 upto 9m,1.5,no restrictions
+71,0,10000000,10,0,9,660,15,10000000,any,1,Special,12,G+2/S+3 upto 12m,1.5,no restrictions
+72,0,10000000,10,0,9,660,18,10000000,any,1,Special,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+73,0,80,3.6,1,10,300,6,6,6,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+74,0,80,3.6,0,10,660,12,6,6,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+75,0,100,4.8,1,10,300,6,8,8,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+76,0,100,4.8,0,10,660,12,8,8,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+77,0,120,7.2,1,10,300,6,10,10,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+78,0,120,7.2,0,10,660,12,10,10,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+79,0,240,9,1,10,300,6,20,20,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+80,0,240,9,0,10,660,12,20,20,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+81,0,10000000,10,1,10,300,6,10000000,any,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+82,0,10000000,10,0,10,660,12,10000000,any,2 or more,Group,15.25,G+3/S+4 upto 15.25m,1.5,no restrictions
+83,1,10000000,12,0,12,1200,25,10000000,any,no restrictions,MSB,24,G+6/S+7 upto 24m,1.5,30%
+84,1,10000000,15,0,15,1200,25,10000000,any,no restrictions,MSB,30,G+8/S+9 upto 30m,1.75,30%
+85,1,10000000,18,0,18,1500,25,10000000,any,no restrictions,MSB,60,60m,2.5,30%
+86,1,10000000,18,0,18,1200,25,10000000,any,no restrictions,MSB,60,60m,2.25,40%
+87,1,10000000,18,0,18,1200,25,10000000,any,no restrictions,MSB,60,60m,2,50%
+88,1,10000000,18,0,30,1500,25,10000000,any,no restrictions,MSB,120,no restrictions,2.5,30%
+89,1,10000000,18,0,30,1200,25,10000000,any,no restrictions,MSB,120,no restrictions,2.25,40%
+90,1,10000000,18,0,30,1200,25,10000000,any,no restrictions,MSB,120,no restrictions,2,50%
